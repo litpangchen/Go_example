@@ -1,0 +1,9 @@
+ERROR 2017/05/30 13:53:14 util.go:92: sql: no rows in result set Cannot find user
+ERROR 2017/05/30 13:53:41 util.go:92: sql: expected 3 destination arguments in Scan, not 4 Cannot create session
+WARNING 2017/05/30 14:07:29 util.go:97: <nil> Failed to get cookie
+WARNING 2017/05/30 14:09:03 util.go:97: <nil> Failed to get cookie
+WARNING 2017/05/30 14:17:47 util.go:97: <nil> Failed to get cookie
+WARNING 2017/05/30 14:22:13 util.go:97: <nil> Failed to get cookie
+WARNING 2017/05/30 14:23:15 util.go:97: <nil> Failed to get cookie
+WARNING 2017/05/30 14:24:26 util.go:97: <nil> Failed to get cookie
+WARNING 2017/05/30 14:27:22 util.go:97: <nil> Failed to get cookie
